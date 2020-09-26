@@ -1,0 +1,10 @@
+baseURL = "http://jcpsantiago.github.io/"
+languageCode = "en-us"
+title = "jcpsantiago"
+enableRobotsTXT = true
+pygmentsUseClasses = true
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+    codeFences = true
